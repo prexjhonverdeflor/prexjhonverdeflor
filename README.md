@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @prexjhonverdeflor
 - 👀 I’m interested in coding, specially web dev
-- 🌱 I’m currently learning django and react
+- 🌱 I’m currently learning react and django
 - 💞️ I’m looking to collaborate on web dev
 - 📫 How to reach me prexjhonverdeflor@gmail.com 
 - 😄 Pronouns: megatron
