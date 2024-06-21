@@ -3,8 +3,7 @@
 - 🌱 I’m currently learning react and django
 - 💞️ I’m looking to collaborate on web dev
 - 📫 How to reach me prexjhonverdeflor@gmail.com 
-- 😄 Pronouns: megatron
-- ⚡ Fun fact: im from the Philippines
+- ⚡ Fun fact: i love pizza and art
 
 <!---
 prexjhonverdeflor/prexjhonverdeflor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
