@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @prexjhonverdeflor
-- 👀 I’m interested in coding, specially web dev
+- 👋 Hi, I’m Prex Jhon Verdeflor
+- 👀 I’m interested in coding, and designing
 - 🌱 I’m currently learning react and django
-- 💞️ I’m looking to collaborate on web dev
+- 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me prexjhonverdeflor@gmail.com 
 - ⚡ Fun fact: i love pizza and art
 
