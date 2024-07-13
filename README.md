@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning react and django
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me prexjhonverdeflor@gmail.com 
-- ⚡ Fun fact: i love pizza and art
+- Portofolio: prexverdeflor.vercel.app
 
 <!---
 prexjhonverdeflor/prexjhonverdeflor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
