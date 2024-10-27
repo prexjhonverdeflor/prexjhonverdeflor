@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Prex Jhon Verdeflor
 - 👀 I’m interested in coding, and designing
-- 🌱 I’m currently learning react and django
+- 🌱 I’m currently learning vue and react
 - 💞️ I’m looking to collaborate on web development
 - 📫 How to reach me prexjhonverdeflor@gmail.com 
 - Portofolio: https://prexverdeflor.vercel.app/
