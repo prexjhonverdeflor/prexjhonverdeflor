@@ -17,7 +17,7 @@ const prex = {
   currentlyLearning: "Artificial Intelligence",
   lookingToCollaborate: "Web Development Projects",
   technologies: {
-    frontEnd: ["HTML", "CSS", "JavaScript", "React"],
+    frontEnd: ["JavaScript", "Vue", "React", ,"Tailwind", "Three JS", "GSAP" ],
     tools: ["Git", "Figma", "VS Code"],
     interests: ["AI", "UI/UX", "Web Accessibility"]
   }
