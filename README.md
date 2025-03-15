@@ -1,10 +1,11 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Prex%20Jhon%20Verdeflor&fontColor=e5e1ff&animation=fadeIn&fontAlignY=40&color=gradient&customColorList=24,24,24,30,30">
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Prex%20Jhon%20Verdeflor&fontColor=e5e1ff&animation=fadeIn&fontAlignY=40&color=gradient&customColorList=24,24,24,30,30">
-    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Prex%20Jhon%20Verdeflor&fontColor=e5e1ff&animation=fadeIn&fontAlignY=40&color=gradient&customColorList=24,24,24,30,30" width="100%" alt="Profile Header">
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&text=Prex%20Jhon%20Verdeflor&fontSize=50&fontColor=e5e1ff&animation=fadeIn&fontAlignY=35&color=gradient&customColorList=24,24,24,30,30&font=Pacifico">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=180&text=Prex%20Jhon%20Verdeflor&fontSize=50&fontColor=1A102C&animation=fadeIn&fontAlignY=35&color=gradient&customColorList=30,30,24,24,24&font=Pacifico">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=180&text=Prex%20Jhon%20Verdeflor&fontSize=50&fontColor=e5e1ff&animation=fadeIn&fontAlignY=35&color=gradient&customColorList=24,24,24,30,30&font=Pacifico" width="100%" alt="Profile Header">
   </picture>
 </div>
+
 
 <kbd style="background-color: #1a102c; color: #c0b7e8;">
   <p align="center">Front-end Developer | AI Enthusiast</p>
@@ -14,12 +15,13 @@
 
   <!-- Animated Terminal -->
   ```bash
-  #!/bin/bash
-  # connection established
-  $ ssh -i identity prex@frontend.dev
-  # loading profile...
-  
-  $ cat /home/prex/about.json
+  $ git clone https://github.com/prexjhonverdeflor/your-project.git
+$ cd your-project
+  # installing...
+  $ npm install
+  # starting...
+  $ npm run dev
+
   ```
   
 </div>
@@ -59,8 +61,8 @@
 
 <br>
 
-<details>
-<summary align="center"><h2>⚡ Technologies & Tools</h2></summary>
+## ⚡ Technologies & Tools  
+
 <div align="center">
 
 ![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=2D1B40&logo=HTML5&logoColor=c0b7e8&label=)
@@ -76,32 +78,30 @@
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=2D1B40&logo=Visual+Studio+Code&logoColor=c0b7e8&label=)
 
 </div>
-</details>
 
-<details>
-<summary align="center"><h2>📊 GitHub Analytics</h2></summary>
+---
+
+## 📊 GitHub Analytics  
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=prexjhonverdeflor&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=1a102c&title_color=c0b7e8&text_color=e5e1ff&icon_color=c0b7e8" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prexjhonverdeflor&layout=compact&theme=midnight-purple&hide_border=true&bg_color=1a102c&title_color=c0b7e8&text_color=e5e1ff" alt="Top Languages" />
 </div>
-</details>
 
-<details>
-<summary align="center"><h2>👯 Collaboration & Learning</h2></summary>
-<div align="center">
+---
 
-#### Currently Learning
-- Advanced AI integration in web applications
-- Interactive 3D experiences with Three.js
-- Micro-frontend architecture patterns
+## 👯 Collaboration & Learning  
 
-#### Open to Collaborate On
-- Innovative web development projects
-- UI/UX design initiatives
-- Frontend challenges with AI integration
+### Currently Learning  
+- Advanced AI integration in web applications  
+- Interactive 3D experiences with Three.js  
+- Micro-frontend architecture patterns  
 
-</div>
-</details>
+### Open to Collaborate On  
+- Innovative web development projects  
+- UI/UX design initiatives  
+- Frontend challenges with AI integration  
+
 
 <div align="center">
   <picture>
