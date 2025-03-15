@@ -1,74 +1,122 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Prex+Jhon+Verdeflor;Front-end+Developer;AI+Enthusiast" alt="Typing SVG" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Prex%20Jhon%20Verdeflor&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&height=200&text=Prex%20Jhon%20Verdeflor&fontColor=000000&animation=fadeIn&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30">
+    <img src="https://capsule-render.vercel.app/api?type=waving&height=200&text=Prex%20Jhon%20Verdeflor&fontColor=ffffff&animation=fadeIn&fontAlignY=40&color=gradient&customColorList=0,2,2,5,30" width="100%" alt="Profile Header">
+  </picture>
 </div>
+
+<kbd>
+  <p align="center">Front-end Developer | AI Enthusiast</p>
+</kbd>
 
 <div align="center">
-  <a href="https://prexverdeflor.vercel.app/">
-    <img alt="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-blue?style=for-the-badge&logoColor=white&logo=browser&labelColor=2962FF&borderRadius=25" />
-  </a>
-  <a href="mailto:prexjhonverdeflor@gmail.com">
-    <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logoColor=white&logo=mail&labelColor=D14836&color=FF5252&borderRadius=25" />
-  </a>
+
+  <!-- Animated Terminal -->
+  ```bash
+  #!/bin/bash
+  # connection established
+  $ ssh -i identity prex@frontend.dev
+  # loading profile...
+  
+  $ cat /home/prex/about.json
+  ```
+  
 </div>
 
-## 🚀 About Me
+<table align="center">
+<tr>
+<td>
 
-```javascript
-const prex = {
-  interests: ["Front-end Development", "AI", "Responsive Design"],
-  currentlyLearning: "Artificial Intelligence",
-  lookingToCollaborate: "Web Development Projects",
-  technologies: {
-    frontEnd: ["JavaScript", "Vue", "React", "Tailwind", "Three JS", "GSAP"],
-    tools: ["Git", "Figma", "VS Code"],
-    interests: ["AI", "UI/UX", "Web Accessibility"]
+```json
+{
+  "name": "Prex Jhon Verdeflor",
+  "focus": "Front-end Development",
+  "learning": ["AI", "Web3"],
+  "skills": {
+    "languages": ["JavaScript", "HTML", "CSS"],
+    "frameworks": ["Vue", "React"],
+    "tools": ["Three.js", "GSAP", "Tailwind"],
+    "workflow": ["Git", "Figma", "VS Code"]
   }
-};
+}
 ```
 
-## 💡 Skills & Technologies
+</td>
+<td>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white&borderRadius=10" />
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&borderRadius=10" />
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black&borderRadius=10" />
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black&borderRadius=10" />
-  <img src="https://img.shields.io/badge/-Vue-4FC08D?style=flat-square&logo=vue.js&logoColor=white&borderRadius=10" />
-  <img src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white&borderRadius=10" />
-  <img src="https://img.shields.io/badge/-Three.js-000000?style=flat-square&logo=three.js&logoColor=white&borderRadius=10" />
-  <img src="https://img.shields.io/badge/-GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black&borderRadius=10" />
-  <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white&borderRadius=10" />
-  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white&borderRadius=10" />
+
+[![Portfolio](https://img.shields.io/badge/-%E2%86%92%20Portfolio-151515?style=for-the-badge&logo=vercel&logoColor=white)](https://prexverdeflor.vercel.app/)
+
+[![Email](https://img.shields.io/badge/-%E2%86%92%20Email-151515?style=for-the-badge&logo=gmail&logoColor=white)](mailto:prexjhonverdeflor@gmail.com)
+
 </div>
 
-## 📊 GitHub Stats
+</td>
+</tr>
+</table>
 
+<br>
+
+<details>
+<summary align="center"><h2>⚡ Technologies & Tools</h2></summary>
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prexjhonverdeflor&show_icons=true&theme=tokyonight&border_radius=15" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prexjhonverdeflor&theme=tokyonight&border_radius=15" alt="GitHub Streak" height="170" />
+
+![HTML5](https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=151515&logo=HTML5&logoColor=E34F26&label=)
+![CSS3](https://img.shields.io/static/v1?style=for-the-badge&message=CSS3&color=151515&logo=CSS3&logoColor=1572B6&label=)
+![JavaScript](https://img.shields.io/static/v1?style=for-the-badge&message=JavaScript&color=151515&logo=JavaScript&logoColor=F7DF1E&label=)
+![Vue.js](https://img.shields.io/static/v1?style=for-the-badge&message=Vue.js&color=151515&logo=Vue.js&logoColor=4FC08D&label=)
+![React](https://img.shields.io/static/v1?style=for-the-badge&message=React&color=151515&logo=React&logoColor=61DAFB&label=)
+![Tailwind CSS](https://img.shields.io/static/v1?style=for-the-badge&message=Tailwind+CSS&color=151515&logo=Tailwind+CSS&logoColor=06B6D4&label=)
+![Three.js](https://img.shields.io/static/v1?style=for-the-badge&message=Three.js&color=151515&logo=Three.js&logoColor=FFFFFF&label=)
+![GreenSock](https://img.shields.io/static/v1?style=for-the-badge&message=GSAP&color=151515&logo=GreenSock&logoColor=88CE02&label=)
+![Git](https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=151515&logo=Git&logoColor=F05032&label=)
+![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=151515&logo=Figma&logoColor=F24E1E&label=)
+![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=151515&logo=Visual+Studio+Code&logoColor=007ACC&label=)
+
 </div>
+</details>
 
-## 🌱 I'm Currently Learning
+<details>
+<summary align="center"><h2>📊 GitHub Analytics</h2></summary>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prexjhonverdeflor/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prexjhonverdeflor/github-stats/master/generated/overview.svg#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/prexjhonverdeflor/github-stats/master/generated/overview.svg#gh-dark-mode-only" alt="GitHub Stats">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prexjhonverdeflor/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prexjhonverdeflor/github-stats/master/generated/languages.svg#gh-light-mode-only">
+    <img src="https://raw.githubusercontent.com/prexjhonverdeflor/github-stats/master/generated/languages.svg#gh-dark-mode-only" alt="Language Stats">
+  </picture>
+</div>
+</details>
 
-- Advanced AI concepts
-- Building intelligent web applications
-- Modern frontend frameworks
+<details>
+<summary align="center"><h2>👯 Collaboration & Learning</h2></summary>
+<div align="center">
 
-## 💞️ Looking to Collaborate On
+#### Currently Learning
+- Advanced AI integration in web applications
+- Interactive 3D experiences with Three.js
+- Micro-frontend architecture patterns
 
+#### Open to Collaborate On
 - Innovative web development projects
 - UI/UX design initiatives
 - Frontend challenges with AI integration
 
-## 📫 Let's Connect
+</div>
+</details>
 
 <div align="center">
-  <a href="mailto:prexjhonverdeflor@gmail.com">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logoColor=white&logo=mail&labelColor=D14836&color=FF5252&borderRadius=25" />
-  </a>
-  <a href="https://prexverdeflor.vercel.app/">
-    <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-blue?style=for-the-badge&logoColor=white&logo=browser&labelColor=2962FF&borderRadius=25" />
-  </a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=gradient&customColorList=0,2,2,5,30">
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=gradient&customColorList=0,2,2,5,30">
+    <img src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=100&color=gradient&customColorList=0,2,2,5,30" width="100%">
+  </picture>
 </div>
 
 <!---
