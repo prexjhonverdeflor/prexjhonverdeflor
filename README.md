@@ -3,10 +3,12 @@
 </div>
 
 <div align="center">
-  
-  [![Portfolio](https://img.shields.io/badge/Portfolio-prexverdeflor.vercel.app-blue?style=for-the-badge&logo=vercel&logoColor=white&labelColor=000000&color=2962FF&borderRadius=15)](https://prexverdeflor.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-prexjhonverdeflor%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=FF5252&borderRadius=15)](mailto:prexjhonverdeflor@gmail.com)
-  
+  <a href="https://prexverdeflor.vercel.app/">
+    <img alt="Portfolio" src="https://custom-icon-badges.demolab.com/badge/-Portfolio-blue?style=for-the-badge&logoColor=white&logo=browser&labelColor=2962FF&borderRadius=25" />
+  </a>
+  <a href="mailto:prexjhonverdeflor@gmail.com">
+    <img alt="Email" src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logoColor=white&logo=mail&labelColor=D14836&color=FF5252&borderRadius=25" />
+  </a>
 </div>
 
 ## 🚀 About Me
@@ -62,10 +64,10 @@ const prex = {
 
 <div align="center">
   <a href="mailto:prexjhonverdeflor@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&borderRadius=15" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Email-red?style=for-the-badge&logoColor=white&logo=mail&labelColor=D14836&color=FF5252&borderRadius=25" />
   </a>
   <a href="https://prexverdeflor.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white&borderRadius=15" />
+    <img src="https://custom-icon-badges.demolab.com/badge/-Portfolio-blue?style=for-the-badge&logoColor=white&logo=browser&labelColor=2962FF&borderRadius=25" />
   </a>
 </div>
 
